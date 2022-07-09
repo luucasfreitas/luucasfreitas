@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <img align="left" height="30%" src="https://github-readme-stats.vercel.app/api?username=luucasfreitas&theme=gotham&include_all_commits=true&count_private=true&show_icons=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=luucasfreitas&theme=gotham&include_all_commits=true&count_private=true&show_icons=true"/>
 </div>
 <div>
-   <img align="right" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luucasfreitas&layout=compact&langs_count=7&theme=gotham"/>
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luucasfreitas&layout=compact&langs_count=7&theme=gotham"/>
 </div>
     
 
