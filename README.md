@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <img align="left" height="40%" src="https://github-readme-stats.vercel.app/api?username=luucasfreitas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   </br>
+  <img align="left" height="30%" src="https://github-readme-stats.vercel.app/api?username=luucasfreitas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img align="right" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luucasfreitas&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
     
