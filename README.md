@@ -23,11 +23,27 @@ Here are some ideas to get you started:
   <a href = "mailto:lucasfreitascj@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
+<div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=luucasfreitas&theme=gotham&include_all_commits=true&count_private=true&show_icons=true"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luucasfreitas&layout=compact&langs_count=7&theme=gotham&count_private=true"/>
+<!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luucasfreitas&layout=compact&langs_count=7&theme=gotham&count_private=true"/> -->
 </div>
-    
+   
+## :octocat: Minhas Skills
+ 
+<div align='center'>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+   <br />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+   <br />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>    
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</div>    
 
    
 
