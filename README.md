@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div>
    <img src="https://github-readme-stats.vercel.app/api?username=luucasfreitas&theme=gotham&include_all_commits=true&count_private=true&show_icons=true"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luucasfreitas&layout=compact&langs_count=7&theme=gotham"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luucasfreitas&layout=compact&langs_count=7&theme=gotham&count_private=true"/>
 </div>
     
 
