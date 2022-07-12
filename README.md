@@ -22,6 +22,8 @@ Here are some ideas to get you started:
    <a href="https://www.linkedin.com/in/lucasfreitascj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" </a> 
   <a href = "mailto:lucasfreitascj@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+   <br />
+   <br />
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=luucasfreitas&theme=gotham&include_all_commits=true&count_private=true&show_icons=true"/>
