@@ -26,7 +26,7 @@ Here are some ideas to get you started:
    <br />
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=luucasfreitas&theme=gotham&count_private=true&show_icons=true"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=luucasfreitas&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
 </div>
    
 ## :octocat: Minhas Skills
